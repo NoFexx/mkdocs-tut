@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/mkdocs-tuti/badge/?version=latest)](https://mkdocs-tuti.readthedocs.io/en/latest/?badge=latest)
+
 Template for the Read the Docs tutorial
 =======================================
 
